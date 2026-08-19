@@ -2,6 +2,9 @@
 
 An interactive Power BI dashboard analyzing hospital operations — built on a star schema data model connecting appointment, patient, doctor, department, and date data to track wait times, attendance, and department performance across the hospital.
 
+## 🔗 Live Interactive Dashboard
+[View Walkthrough Video](HospitalManagementSystem.gif)
+
 ## 📊 Preview
 ![Hospital Overview](hospitalOverview.png)
 ![Patient Insight](patientInsight.png)
@@ -38,3 +41,4 @@ An interactive Power BI dashboard analyzing hospital operations — built on a s
 * `hospital_mySQL.sql` — schema and source queries for `hospitaldb`
 * `error_fixing_hospital.sql` — data cleaning / error-fixing queries
 * `mySqlHospital.png` — MySQL schema/table preview
+* `HospitalManagementSystem.gif` — walkthrough video of the dashboard
